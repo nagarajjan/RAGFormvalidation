@@ -5,5 +5,7 @@ Steps:
 2. pip install -r requirements.txt
 3. streamlit run app.py
 
+For any changes to the rule, we need to remove chroma_db folder and run streamlit run app.py 
+
 
 

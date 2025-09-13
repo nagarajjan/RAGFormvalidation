@@ -1,0 +1,1 @@
+Client A's policy details: Status is 'Active', subscription plan is 'Premium', and the renewal date is 2026-03-15. Product code is 'PROD-789'.
